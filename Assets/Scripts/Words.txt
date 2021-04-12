@@ -1,0 +1,606 @@
+﻿{
+    "Levels": [
+        {
+            "Seviye": 1, 
+            "Kelime": "SUPPORT",
+            "Unit": 1,
+            "Turkce": "Desteklemek"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "TRUST",
+            "Unit": 1,
+            "Turkce": "Güvenmek"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "ACADEMIC",
+            "Unit": 1,
+            "Turkce": "Akademik"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "BORED",
+            "Unit": 1,
+            "Turkce": "Sıkılmış"
+        },
+	    {
+            "Seviye": 2, 
+            "Kelime": "ENEMY",
+            "Unit": 1,
+            "Turkce": "Düşman"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "TICKET",
+            "Unit": 1,
+            "Turkce": "Bilet"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "LETTER",
+            "Unit": 1,
+            "Turkce": "Mektup"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "LOCATION",
+            "Unit": 1,
+            "Turkce": "Konum"
+        },
+
+	    {
+            "Seviye": 3, 
+            "Kelime": "FAIR",
+            "Unit": 1,
+            "Turkce": "Adil"
+        },
+        {
+            "Seviye": 3, 
+            "Kelime": "CHOICE",
+            "Unit": 1,
+            "Turkce": "Seçenek"
+        },
+        {
+            "Seviye": 3, 
+            "Kelime": "AGGRESIVE",
+            "Unit": 1,
+            "Turkce": "Agresif"
+        },
+        {
+            "Seviye": 3, 
+            "Kelime": "EXPECT",
+            "Unit": 1,
+            "Turkce": "Ummak"
+        },
+
+
+        {
+            "Seviye": 4, 
+            "Kelime": "FOLLOW",
+            "Unit": 1,
+            "Turkce": "Takip Etmek"
+        },
+        {
+            "Seviye": 4, 
+            "Kelime": "STUDY",
+            "Unit": 1,
+            "Turkce": "Ders çalışmak"
+        },
+        {
+            "Seviye": 4, 
+            "Kelime": "HIDDEN",
+            "Unit": 1,
+            "Turkce": "Saklı"
+        },
+        {
+            "Seviye": 4, 
+            "Kelime": "VACATION",
+            "Unit": 1,
+            "Turkce": "Tatil"
+        },
+
+        
+        {
+            "Seviye": 5, 
+            "Kelime": "MEAN",
+            "Unit": 1,
+            "Turkce": "Kaba"
+        },
+        {
+            "Seviye": 5, 
+            "Kelime": "SECRET",
+            "Unit": 1,
+            "Turkce": "Sır"
+        },
+        {
+            "Seviye": 5, 
+            "Kelime": "LIES",
+            "Unit": 1,
+            "Turkce": "Yalan"
+        },
+        {
+            "Seviye": 5, 
+            "Kelime": "DESSERT",
+            "Unit": 1,
+            "Turkce": "Tatlı"
+        },
+        {
+            "Seviye": 5, 
+            "Kelime": "DATE",
+            "Unit": 1,
+            "Turkce": "Tarih"
+        },
+        
+
+
+
+
+
+        {
+            "Seviye": 1, 
+            "Kelime": "HISTORY",
+            "Unit": 2,
+            "Turkce": "Tarih"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "PRETTY",
+            "Unit": 2,
+            "Turkce": "Sevimli"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "SACRED",
+            "Unit": 2,
+            "Turkce": "Kutsal"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "BORING",
+            "Unit": 2,
+            "Turkce": "Sıkıcı"
+        },
+
+	    {
+            "Seviye": 2, 
+            "Kelime": "ARCHERY",
+            "Unit": 2,
+            "Turkce": "Okçuluk"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "HISTORY",
+            "Unit": 2,
+            "Turkce": "Tarih"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "SNOB",
+            "Unit": 2,
+            "Turkce": "Zübbe"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "AMAZING",
+            "Unit": 2,
+            "Turkce": "Şaşırtıcı"
+        },
+
+
+
+
+        {
+            "Seviye": 1, 
+            "Kelime": "ONION",
+            "Unit": 3,
+            "Turkce": "Soğan"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "BOWL",
+            "Unit": 3,
+            "Turkce": "Kase"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "STRAWBERRY",
+            "Unit": 3,
+            "Turkce": "  Çilek"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "GINGER",
+            "Unit": 3,
+            "Turkce": "Zencefil"
+        },
+
+        {
+            "Seviye": 2, 
+            "Kelime": "FREEZER",
+            "Unit": 3,
+            "Turkce": "Dondurucu"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "WHISK",
+            "Unit": 3,
+            "Turkce": "Çırpmak"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "CUMMIN",
+            "Unit": 3,
+            "Turkce": "Kimyon"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "BETWEEN",
+            "Unit": 3,
+            "Turkce": "Arasında"
+        },
+
+
+
+        {
+            "Seviye": 1, 
+            "Kelime": "COMPLAINT",
+            "Unit": 4,
+            "Turkce": "Şikayet"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "KNOW",
+            "Unit": 4,
+            "Turkce": "Bilmek"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "FLIGHT",
+            "Unit": 4,
+            "Turkce": "Uçuş"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "ARRIVE",
+            "Unit": 4,
+            "Turkce": "Varmak"
+        },
+
+
+
+        {
+            "Seviye": 2, 
+            "Kelime": "REFUGEE",
+            "Unit": 4,
+            "Turkce": "Mülteci"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "DONATE",
+            "Unit": 4,
+            "Turkce": "Bağışlamak"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "COLLECT",
+            "Unit": 4,
+            "Turkce": "Toplamak"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "SPELL",
+            "Unit": 4,
+            "Turkce": "Hecelemek"
+        },
+
+
+
+        {
+            "Seviye": 1, 
+            "Kelime": "DESKTOP",
+            "Unit": 5,
+            "Turkce": "Masaüstü"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "FOLLOWER",
+            "Unit": 5,
+            "Turkce": "Takipçi"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "ACCESS",
+            "Unit": 5,
+            "Turkce": "Bağlanmak"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "FILE",
+            "Unit": 5,
+            "Turkce": "Dosya"
+        },
+
+
+
+        {
+            "Seviye": 2, 
+            "Kelime": "CONFIRM",
+            "Unit": 5,
+            "Turkce": "Onaylamak"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "DOWNLOAD",
+            "Unit": 5,
+            "Turkce": "İndirmek"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "KEYBOARD",
+            "Unit": 5,
+            "Turkce": "Klavye"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "ALL",
+            "Unit": 5,
+            "Turkce": "Hepsi"
+        },
+
+
+
+
+
+        {
+            "Seviye": 1, 
+            "Kelime": "DEVELOP",
+            "Unit": 6,
+            "Turkce": "Gelişmek"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "KNIFE",
+            "Unit": 6,
+            "Turkce": "Bıçak"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "CLIMB",
+            "Unit": 6,
+            "Turkce": "Tırmanmak"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "DESCRIBE",
+            "Unit": 6,
+            "Turkce": "Tanımlamak"
+        },
+
+
+
+        {
+            "Seviye": 1, 
+            "Kelime": "BEACH",
+            "Unit": 7,
+            "Turkce": "Sahil"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "BRIDGE",
+            "Unit": 7,
+            "Turkce": "Köprü"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "CASTLE",
+            "Unit": 7,
+            "Turkce": "Kale"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "LANDMARK",
+            "Unit": 7,
+            "Turkce": "Kent Simgesi"
+        },
+
+
+        {
+            "Seviye": 2, 
+            "Kelime": "ISLAND",
+            "Unit": 7,
+            "Turkce": "ADA"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "SUNNY",
+            "Unit": 7,
+            "Turkce": "Güneşli"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "TOMB",
+            "Unit": 7,
+            "Turkce": "Mezar"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "CLIMATE",
+            "Unit": 7,
+            "Turkce": "İklim"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "DRY",
+            "Unit": 7,
+            "Turkce": "Kuru"
+        },
+
+
+
+
+        {
+            "Seviye": 1, 
+            "Kelime": "FEMALE",
+            "Unit": 8,
+            "Turkce": "Kadın"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "MEMBER",
+            "Unit": 8,
+            "Turkce": "Üye"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "ABOUT",
+            "Unit": 8,
+            "Turkce": "Hakkında"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "HOMEWORK",
+            "Unit": 8,
+            "Turkce": "Ödev"
+        },
+
+
+        {
+            "Seviye": 2, 
+            "Kelime": "BILL",
+            "Unit": 8,
+            "Turkce": "Fatura"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "ALSO",
+            "Unit": 8,
+            "Turkce": "Ayrıca"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "RESPECT",
+            "Unit": 8,
+            "Turkce": "Saygı"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "DISTURB",
+            "Unit": 8,
+            "Turkce": "Rahatsız etmek"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "PAY",
+            "Unit": 8,
+            "Turkce": "Ödenek"
+        },
+
+
+
+
+
+        {
+            "Seviye": 1, 
+            "Kelime": "COMPASS",
+            "Unit": 9,
+            "Turkce": "Pusula"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "EXPLORE",
+            "Unit": 9,
+            "Turkce": "Keşfetmek"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "LAW",
+            "Unit": 9,
+            "Turkce": "Yasa"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "DISCOVER",
+            "Unit": 9,
+            "Turkce": "Keşfetmek"
+        },
+
+
+
+        {
+            "Seviye": 2, 
+            "Kelime": "EXPLODE",
+            "Unit": 9,
+            "Turkce": "Patlamak"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "GENIUS",
+            "Unit": 9,
+            "Turkce": "Dahi"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "ADVANCED",
+            "Unit": 9,
+            "Turkce": "Gelişmiş"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "CURE",
+            "Unit": 9,
+            "Turkce": "Tedavi"
+        },
+
+
+
+
+        {
+            "Seviye": 1, 
+            "Kelime": "HURRICANE",
+            "Unit": 10,
+            "Turkce": "Fırtına"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "SURFACE",
+            "Unit": 10,
+            "Turkce": "Yüzey"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "VICTIM",
+            "Unit": 10,
+            "Turkce": "Kurban"
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "AIR",
+            "Unit": 10,
+            "Turkce": "HAVA"
+        },
+
+
+
+        {
+            "Seviye": 2, 
+            "Kelime": "EFFICIENT",
+            "Unit": 10,
+            "Turkce": "Verimli"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "PRESSURE",
+            "Unit": 10,
+            "Turkce": "Baskı"
+        },
+        {
+            "Seviye": 2, 
+            "Kelime": "WILDLIFE",
+            "Unit": 10,
+            "Turkce": "HAVA"
+        }
+
+
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Levels": [
+        {
+            "Seviye": 1, 
+            "Kelime": "SUPPORT",
+            "Unit": 1
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "TRUST",
+            "Unit": 1
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "ACADEMIC",
+            "Unit": 1
+        },
+        {
+            "Seviye": 1, 
+            "Kelime": "APPLE",
+            "Unit": 1
+        }
+    ]
+}
